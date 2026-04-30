@@ -4,7 +4,7 @@
 								owned by group bandit6
 								33 bytes in size
 	
-- **Key Command:** [[Navigation & Exploration|ls]]  , find , [[Viewing & Searching|cat]]
+- **Key Command:**   ls   , find ,  cat 
     
 - **The Logic:** ใช้คำสั่ง **find / -user[] -group[] -size[] 2>/dev/null** เพื่อหาไฟล์ตามเงื่อนไขที่โจทย์บอก
 

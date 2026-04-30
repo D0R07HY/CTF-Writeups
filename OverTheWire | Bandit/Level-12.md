@@ -1,6 +1,6 @@
 - **Goal:** แปลงข้อความ Hexdump และแกะรหัสข้อความไปทีละชั้นจนกว่าจะเจอรหัส
     
-- **Key Command:** [[Navigation & Exploration|ls]] , cd , cp , mktemp , bzip2 , gzip , tar , file , mv
+- **Key Command:**  ls  , cd , cp , mktemp , bzip2 , gzip , tar , file , mv
     
 - **The Logic:** 
 
@@ -22,4 +22,4 @@
 			tar : ให้ใช้คำสั่ง tar -xf [ชื่อไฟล์] จะได้ไฟล์ใหม่ที่มีนามสกุล .bin เอาไฟล์นั้นไปทำการทำ
 			ซ้ำการถอดรหัสใหม่
     
-- **New Loot (ความรู้ใหม่):** คำสั่ง [[gzip]] , [[bzip2]] , [[tar]] เป็นการบีบอัดข้อมูลและการรวมไฟล์
+- **New Loot (ความรู้ใหม่):** คำสั่ง gzip  , bzip2  , tar  เป็นการบีบอัดข้อมูลและการรวมไฟล์

@@ -1,6 +1,6 @@
 - **Goal:** เปรียบเทียบ passwords.old และ passwords.new 
     
-- **Key Command:** ssh , diff , [[Navigation & Exploration|ls]]
+- **Key Command:** ssh , diff ,  ls 
     
 - **The Logic:** 
 

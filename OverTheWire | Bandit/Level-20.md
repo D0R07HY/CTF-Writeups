@@ -1,6 +1,6 @@
 - **Goal:** ใช้เซิฟเวอร์ Level 20 อีกอันเพื่อมาขอรหัสจาก Level 20อีกเซิฟ
     
-- **Key Command:** nc , [[Navigation & Exploration|ls]]
+- **Key Command:** nc ,  ls 
     
 - **The Logic:** 
 

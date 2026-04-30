@@ -1,6 +1,6 @@
 - **Goal:** หารหัสที่ซ่อนอยู่
     
-- **Key Command:**  ssh ,  [[Navigation & Exploration|ls]] ,  [[Viewing & Searching|cat]]
+- **Key Command:**  ssh ,   ls  , cat 
     
 - **The Logic:** ใช้คำสั่ง`ssh -t bandit18@bandit.labs.overthewire.org -p 2220 /bin/sh`
 			หลังจากนั้นให้รหัส Level 18 เพื่อเข้าไปในที่ซ่อนของรหัส หลังจากเข้ามาแล้ว

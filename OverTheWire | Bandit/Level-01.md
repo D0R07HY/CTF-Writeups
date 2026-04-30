@@ -1,6 +1,6 @@
 - **Goal:** แกะรหัสจากไฟล์ -
     
-- **Key Command:** [[Navigation & Exploration|ls]] , [[Viewing & Searching|cat]]
+- **Key Command:** ls , cat
     
 - **The Logic:** เราไม่สามารถอ่านไฟล์ด้วยการพิมพ์ cat - ได้เนื่องจากเป็นเครื่องหมายพิเศษ ต้องพิมพ์คำสั่ง cat ./- เพื่อให้โปรแกมสามารถอ่านไฟล์ได้
     

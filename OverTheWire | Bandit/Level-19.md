@@ -1,6 +1,6 @@
 - **Goal:** หารหัสจาก /etc/bandit_pass/bandit20 โดยใช้สิทธิ bandit20-do
     
-- **Key Command:**  [[Viewing & Searching|cat]]
+- **Key Command:**  cat 
     
 - **The Logic:** ใช้คำสั่ง `./bandit20-do cat /etc/bandit_pass/bandit20` เพื่อเอารหัส
     

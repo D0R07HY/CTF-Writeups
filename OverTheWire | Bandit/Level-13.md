@@ -1,6 +1,6 @@
 - **Goal:** เข้าไปเอารหัสใน Bandit14 โดยใช้รหัส sshkey.private
     
-- **Key Command:** [[Permissions & System|chmod]] , [[Navigation & Exploration|ls]] / (Window CMD) icacls , inheritance , scp , ssh
+- **Key Command:** chmod  ,  ls  / (Window CMD) icacls , inheritance , scp , ssh
     
 - **The Logic:**  
 	
@@ -24,5 +24,5 @@
 		หลังจากนั้นให้พิมพ์คำสั่ง :
 		cat /etc/bandit_pass/bandit14 เพื่อเอารหัสผ่าน
     
-- **New Loot (ความรู้ใหม่):** การรันคำสั่งการใช้สิทธิต่าง [[Permissions & System|chmod]] บน linux
+- **New Loot (ความรู้ใหม่):** การรันคำสั่งการใช้สิทธิต่าง chmod  บน linux
 					 และคำสั่ง `icacls` , `inheritance` บน window
