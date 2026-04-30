@@ -1,0 +1,7 @@
+- **Goal:** แกะรหัสจากไฟล์ readme
+    
+- **Key Command:** [[Viewing & Searching|cat]] , [[Navigation & Exploration|ls]]
+    
+- **The Logic:** ใช้คำสั่ง [[Navigation & Exploration|ls]]  เพื่อดูว่ามีไฟล์อะไรบ้าง จากนั้นใช้คำสั่ง cat เพื่ออ่านข้อมูลในไฟล์ขึ้นหน้าจอ
+    
+- **New Loot (ความรู้ใหม่):** -
