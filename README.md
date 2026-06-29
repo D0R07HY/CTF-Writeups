@@ -19,6 +19,11 @@ Wargame ระดับตำนานสำหรับฝึกฝนทัก
 - **Current Progress:** อัปเดต Writeup แล้วรวม **22 ไฟล์** ครอบคลุมหลายหมวดที่แก้ได้ และยังคงทยอยจัดระเบียบเนื้อหาให้ครบถ้วนและอ่านต่อได้ง่ายขึ้น
 - **Focus Area:** Web Exploitation, Binary Exploitation, Cryptanalysis, Log Analysis, File Recovery, และ Reverse Engineering
 
+### [PicoCTF](./PicoCTF)
+สนามฝึก CTF ที่เหมาะกับการเก็บพื้นฐานแบบเป็นขั้นเป็นตอน โดยชุดที่ย้ายเข้ามารอบนี้เน้นโจทย์สาย Cryptography, General Skills และ Web Exploitation จากโน้ตเดิมที่จัดไว้ใน Obsidian
+- **Current Progress:** ย้ายและจัดระเบียบ Writeup แล้วรวม **10 ไฟล์ Markdown** พร้อมแยกหมวดและทำลิงก์รูปให้เปิดบน GitHub ได้ตรง ๆ
+- **Focus Area:** Classical Ciphers, Encoding Chains, Session Abuse, HTTP Headers, และ SSTI
+
 ## 🧠 Writeup Methodology
 
 เพื่อให้ง่ายต่อการทบทวนความรู้และเป็นระบบ บันทึกทุกไฟล์ในคลังนี้จะถูกจัดโครงสร้างอย่างชัดเจน:
@@ -37,6 +42,12 @@ CTF-Writeups/
 │   ├── Crypto/
 │   ├── Forensics/
 │   ├── Reverse/
+│   └── README.md
+├── PicoCTF/
+│   ├── Cryptography/
+│   ├── General-Skills/
+│   ├── Web-Exploitation/
+│   ├── assets/
 │   └── README.md
 ├── OverTheWire | Bandit/
 │   ├── Level-0.md
